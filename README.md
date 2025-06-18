@@ -13,11 +13,12 @@ Une application de bureau développée pour simplifier la gestion des étudiants
 * Calcul automatique des moyennes et du statut de validation des matières.
 * Consultation des bulletins de notes par étudiant et par année académique.
 
-`Par défaut, il extse trois utilisateur avec des mots de passe définir par défaut:
-    **responsable1**: resppass
-    **admin**: adminpass
-    **secretaire1**: secpass
-`
+```
+Par défaut, il extse trois utilisateur avec des mots de passe définir par défaut:
+    responsable1: resppass
+    admin: adminpass
+    secretaire1: secpass
+```
 
 ## Technologies Utilisées
 
